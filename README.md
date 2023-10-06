@@ -5,7 +5,7 @@
 
 <p align="left"> 
   <a href="https://twitter.com/tecnopolispasto" target="blank">
-    <img src="https://pbs.twimg.com/profile_images/1019710199291146240/yt7n8OBy_400x400.jpg" width="48px" height="48px" alt="tecnopolispasto" /> 
+    <img src="https://github.com/carolimz/carolimz/issues/2#issue-1930919120" width="48px" height="48px" alt="tecnopolispasto" /> 
   </a> 
 </p>
 🌱 *React, JavaScript, Vite, Astro y Vercel*
